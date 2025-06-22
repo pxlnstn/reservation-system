@@ -1,4 +1,4 @@
-# AOOP Reservation System
+# Reservation System
 
 A Java-based Bus and Flight Reservation System with JavaFX GUI and Object-Oriented Design Patterns.
 
