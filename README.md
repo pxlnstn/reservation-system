@@ -1,6 +1,6 @@
 # Reservation System
 
-A Java-based Bus and Flight Reservation System with JavaFX GUI and Object-Oriented Design Patterns.
+A Java-based Bus and Flight Reservation System with JavaFX GUI and Object-Oriented Design Patterns, providing an interactive and modular booking experience.
 
 ## ✨ Features
 
